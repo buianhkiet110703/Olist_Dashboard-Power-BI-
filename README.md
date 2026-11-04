@@ -28,7 +28,8 @@ olist_order_reviews_dataset.csv: Stores customer satisfaction metrics, including
 ## 2. Data Modeling in Power BI (Star Schema Architecture)
 To optimize query performance, eliminate data redundancy, and ensure seamless DAX measure calculations, the dataset is structured into a classic Star Schema with clearly separated Fact Tables (transactional events) and Dimension Tables (descriptive context).
 
-<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/f6dcf26d-450b-4e3b-96bd-8d649db2aa80" />
+<img width="1346" height="1806" alt="image" src="https://github.com/user-attachments/assets/dcf92372-96ba-45b8-9884-1f6756248810" />
+
 
 
 

@@ -1,5 +1,7 @@
 # End-to-End E-Commerce Data Analytics & Modeling (Olist Dataset)
-
+> 🛠️ **Looking for the data pipeline behind this dashboard?**  
+> The data is cleaned, modeled and tested with **SQL + dbt + DuckDB** and exported to Parquet files that this report reads.  
+> 👉 **[Olist Data Pipeline – SQL / dbt](https://github.com/buianhkiet110703/-SQL-_dbt_data_pipeline)**
 ## 1. Project Context & Dataset Overview
 ### A. Project Objective
 This project aims to build an end-to-end Data Analytics and Engineering portfolio project using the Brazilian E-Commerce Public Dataset by Olist. The primary goal is to transform raw relational CSV files into a structured dimensional model (Star Schema), implement data processing, and design an interactive Power BI dashboard to showcase data modeling and business intelligence skills for a professional CV/GitHub portfolio.
